@@ -9,6 +9,15 @@ I'm a **Fullstack Developer** specializing in building accessible and useful app
 - 🎯 I aim to create accessible and useful applications that have a positive impact on users.
 - 📈 I’m always looking to learn new technologies and improve my skills.
 
+### My Projects
+
+Below are some of my repositories that showcase my work. Feel free to explore and give feedback!
+
+- [**Plant Tracker (WIP)**](https://github.com/non4me21/plant_tracker): Plant Tracker is a web app where you can store your plants with descriptions, names, photos and last time when it was watered. It's meant to help you with keeping your plants healthy. This is backend repo, there is also plant_tracker_front with frontend. Technologies used: Django, DRF, Next.js, Docker.
+- [**Currency Converter**](https://github.com/non4me21/currency-converter): Web app to convert money from one currency to another. Exchange rates are automatically updated every minute using BackgroundScheduler and NBP API. Technologies used: Flask, BackgroundScheduler, React.js.
+- [**Estate Price Prediction**](https://github.com/non4me21/estate-price-prediction): It's my application for engineering thesis. The goal was to make a web app which may help people who want to check possible price of flat in Wroclaw/Poland. It consists Data Mining, Machine Learning Model, Backend and Frontend. Technologies used: Selenium, Beautiful Soup, Pandas, SciKit-Learn, Flask, React, PyTest.
+
+
 ### Technologies I Use
 
 Here are some of the technologies I work with:
@@ -34,14 +43,6 @@ Here are some of the technologies I work with:
   - Docker
   - VS Code
   - Linux
-
-### My Projects
-
-Below are some of my repositories that showcase my work. Feel free to explore and give feedback!
-
-- [**Plant Tracker (WIP)**](https://github.com/non4me21/plant_tracker): Plant Tracker is a web app where you can store your plants with descriptions, names, photos and last time when it was watered. It's meant to help you with keeping your plants healthy. This is backend repo, there is also plant_tracker_front with frontend. Technologies used: Django, DRF, Next.js, Docker.
-- [**Currency Converter**](https://github.com/non4me21/currency-converter): Web app to convert money from one currency to another. Exchange rates are automatically updated every minute using BackgroundScheduler and NBP API. Technologies used: Flask, BackgroundScheduler, React.js.
-- [**Estate Price Prediction**](https://github.com/non4me21/estate-price-prediction): It's my application for engineering thesis. The goal was to make a web app which may help people who want to check possible price of flat in Wroclaw/Poland. It consists Data Mining, Machine Learning Model, Backend and Frontend. Technologies used: Selenium, Beautiful Soup, Pandas, SciKit-Learn, Flask, React, PyTest.
 
 ### Get in Touch
 

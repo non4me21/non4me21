@@ -31,6 +31,7 @@ Here are some of the technologies I work with:
 - **Frontend**:
   - React.js
   - Next.js
+  - Redux
   - TypeScript
   - HTML5
   - CSS3
